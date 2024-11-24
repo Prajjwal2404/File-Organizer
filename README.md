@@ -15,7 +15,7 @@ The **File Organizer** is a Python-based tool that allows users to organize thei
 
 1. Launch the program by running `main.py`.
 2. The GUI will open with one field:
-   - **Enter Directory Path**: Enter the path of the directory to organize
+   - **Enter Directory Path** : Enter the path of the directory to organize
 3. Click **Submit** button to organize the files.
 4. **Files have been organized!** appears upon successful fetching.
 
